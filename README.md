@@ -1,4 +1,4 @@
-# DSharpPlus Template
+# Discord C# Bot Template With DSharpPlus
 
 This is a simple and easy-to-use template for building Discord bots using the [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) library in C#. It provides the basic structure needed to quickly start building and deploying your own Discord bot.
 
