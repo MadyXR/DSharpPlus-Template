@@ -27,6 +27,6 @@ This template uses the following NuGet packages to interact with Discord:
 - **DSharpPlus.CommandsNext**: The Command library for Discord bots in C#.
   ```bash
   dotnet add package DSharpPlus.CommandsNext
-- **Newtonsoft.Json**: The add JSON library files library in C#.
+- **Newtonsoft.Json**: The add JSON Packages files library in C#.
   ```bash
   dotnet add package Newtonsoft.Json
