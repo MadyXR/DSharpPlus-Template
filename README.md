@@ -30,5 +30,3 @@ This template uses the following NuGet packages to interact with Discord:
 - **Newtonsoft.Json**: The add JSON library files library in C#.
   ```bash
   dotnet add package Newtonsoft.Json
-
-  
